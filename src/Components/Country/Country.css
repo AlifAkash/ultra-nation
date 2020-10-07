@@ -1,0 +1,16 @@
+.Country{
+    border: 1px solid orangered;
+    margin: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px lightcoral;
+}
+
+.Button{
+    height: 30px;
+    background-color: grey;
+    color: whitesmoke;
+    border: none;
+    box-shadow: 1px 1px aliceblue;
+    cursor: pointer;
+}
